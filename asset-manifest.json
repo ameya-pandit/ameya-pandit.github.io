@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.78427a85.chunk.css",
-    "main.js": "/static/js/main.34a1fbfa.chunk.js",
-    "main.js.map": "/static/js/main.34a1fbfa.chunk.js.map",
+    "main.css": "/static/css/main.6748f4d4.chunk.css",
+    "main.js": "/static/js/main.9ddb053f.chunk.js",
+    "main.js.map": "/static/js/main.9ddb053f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3374ac37.js",
     "runtime-main.js.map": "/static/js/runtime-main.3374ac37.js.map",
-    "static/js/2.a2b89e79.chunk.js": "/static/js/2.a2b89e79.chunk.js",
-    "static/js/2.a2b89e79.chunk.js.map": "/static/js/2.a2b89e79.chunk.js.map",
+    "static/css/2.8a880555.chunk.css": "/static/css/2.8a880555.chunk.css",
+    "static/js/2.eee07472.chunk.js": "/static/js/2.eee07472.chunk.js",
+    "static/js/2.eee07472.chunk.js.map": "/static/js/2.eee07472.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e3a49737b34ad19055c8eade5f8a5671.js": "/precache-manifest.e3a49737b34ad19055c8eade5f8a5671.js",
+    "precache-manifest.3399601a698e32a0c5d089ccaa1d4a10.js": "/precache-manifest.3399601a698e32a0c5d089ccaa1d4a10.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.78427a85.chunk.css.map": "/static/css/main.78427a85.chunk.css.map",
-    "static/js/2.a2b89e79.chunk.js.LICENSE.txt": "/static/js/2.a2b89e79.chunk.js.LICENSE.txt",
+    "static/css/2.8a880555.chunk.css.map": "/static/css/2.8a880555.chunk.css.map",
+    "static/css/main.6748f4d4.chunk.css.map": "/static/css/main.6748f4d4.chunk.css.map",
+    "static/js/2.eee07472.chunk.js.LICENSE.txt": "/static/js/2.eee07472.chunk.js.LICENSE.txt",
     "static/media/AboutMe.css": "/static/media/aboutMeRavensGame.20241186.JPG",
     "static/media/Home.css": "/static/media/ameya_background.136d4913.JPG",
+    "static/media/index.css": "/static/media/raleway-vietnamese-400-normal.59568860.woff2",
     "static/media/Experience.css": "/static/media/uciCalit2Logo2.398d2cec.png",
     "static/media/Education.css": "/static/media/ucscSOElogo.e8ab2342.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3374ac37.js",
-    "static/js/2.a2b89e79.chunk.js",
-    "static/css/main.78427a85.chunk.css",
-    "static/js/main.34a1fbfa.chunk.js"
+    "static/css/2.8a880555.chunk.css",
+    "static/js/2.eee07472.chunk.js",
+    "static/css/main.6748f4d4.chunk.css",
+    "static/js/main.9ddb053f.chunk.js"
   ]
 }
