@@ -1,0 +1,84 @@
+.aboutMeMainContainer	{
+	height: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-weight: 700;
+	font-size: 40px;
+	text-align: center;
+}
+
+.aboutMeContOne    {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	text-align: left;
+}	
+
+.aboutMeImgOneCont	{
+	background-image: url(../components/images/aboutMeImgVegas.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 25px;
+	width: 30vw;
+	height: 55vh;
+	min-width: 320px;
+	min-height: 400px;
+}
+
+.aboutMeContTwo    {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.aboutMeImgTwoCont	{
+	background-image: url(../components/images/aboutMeRavensGame.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	width: 55vw;
+	height: 50vh;
+	min-width: 450px;
+	min-height: 350px;
+}
+
+.aboutMeContThree    {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.aboutMeImgThreeCont	{
+	background-image: url(../components/images/aboutMeImgSwings.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+	width: 30vw;
+	height: 55vh;
+	min-width: 320px;
+	min-height: 400px;
+}
+
+.aboutMeTextContainer	{
+	margin-left: 25px;
+	margin-right: 25px;
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 24px;
+	width: stretch;
+	min-width: 850px;
+}

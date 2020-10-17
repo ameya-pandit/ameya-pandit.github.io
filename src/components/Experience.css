@@ -1,0 +1,81 @@
+.experienceMainContainer	{
+	font-family: 'Raleway';
+	font-weight: 700;
+	font-size: 40px;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	text-rendering:optimizeLegibility;
+}
+
+.indivExpContainer	{
+	display: flex;
+	flex-direction: row;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	align-items: top;	
+}
+
+.lumentumImageContainer	{
+	background-image: url(../components/images/lumentum_logo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	margin-top: 70px;
+	width: 420px;
+	height: 120px;
+	min-width: 420px;
+	min-height: 120px;
+}
+
+.UCIImageContainer	{
+	background-image: url(../components/images/uciLogo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	width: 420px;
+	height: 200px;
+	min-width: 420px;
+	min-height: 200px;
+}
+
+.Calit2ImageContainer	{
+	background-image: url(../components/images/uciCalit2Logo2.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	margin-top: 70px;
+	width: 420px;
+	height: 70px;
+	min-width: 420px;
+	min-height: 70px;
+}
+
+.expTextContainer	{
+	margin-left: 60px;
+	margin-right: 40px;
+	font-family: 'Raleway';
+	font-weight: 400;
+	font-size: 24px;
+	width: stretch;
+	min-width: 600px;
+	text-align: left;
+	display: flex;
+	flex-direction: column;
+}
+
+.timeCSS	{
+	color: rgb(11, 1, 80);
+}
+
+.listCSS	{
+	font-size: 20px;
+	margin-top: 5px;
+}
+
+.experienceTitle	{
+	font-weight: 700;
+	font-size: 25px;
+}

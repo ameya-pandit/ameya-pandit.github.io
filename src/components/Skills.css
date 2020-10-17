@@ -1,0 +1,70 @@
+.skillsMainContainer	{
+	font-family: "Raleway";
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.infoContainer	{
+	margin-left: 120px;
+	margin-right: 120px;
+	margin-top: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+}
+
+/*
+.svgDeviconIcons	{
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+*/
+
+.languagesTable	{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+
+.languagesTable td	{
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-height: 55px;
+    text-align: center;
+    color: rgb(11, 1, 80);
+}
+
+.workflowContainer	{
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: -10px;
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+.workflowTable	{
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+.workflowTable td	{
+	padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(11, 1, 80);
+}
+
+
+
+

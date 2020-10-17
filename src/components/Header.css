@@ -1,0 +1,57 @@
+.headerContainer	{
+	height: contain;
+	display: flex;
+	flex-direction: row;
+	margin-right: 20px;
+}
+
+.logoContainer	{
+	text-decoration: none;
+	width: 8vw;
+	transition: color 1s;
+	min-width: 110px;
+	font-family: 'Raleway';
+	font-size: 70px;
+	font-weight: 600;
+	padding-left: 20px;
+	text-rendering:optimizeLegibility;
+}
+
+.logoContainer a	{
+	color: rgb(18, 3, 115);
+	animation: 
+}
+
+.restContainer	{
+	width: stretch;
+	min-width: 600px;
+	font-family: 'Raleway';
+	line-height: 50px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+.headerRedirectStyles	{
+	font-size: 18px;
+	font-weight: 500;
+	padding-top: 10px;
+   	padding-left: 15px;
+   	padding-right: 15px; 
+   	min-width: 60px;
+   	white-space: nowrap;
+   	text-align: center;
+   	text-rendering:optimizeLegibility;
+}
+
+a	{
+    -webkit-transition: color 1s; /* For Safari 3.0 to 6.0 */
+    color: black;
+    transition: color 1s; /* For modern browsers */
+	text-decoration: none;
+}
+
+a:hover	{
+	color: gray;
+	text-decoration: none;
+}

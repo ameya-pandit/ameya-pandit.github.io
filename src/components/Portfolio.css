@@ -1,0 +1,83 @@
+.portfolioMainCont	{
+	font-family: 'Raleway';
+	font-weight: 700;
+	font-size: 40px;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	min-width: 1200px;
+	text-align: center;
+}
+
+.projectsMainCont	{
+	font-weight: 400;
+	font-size: 20px;
+	margin-left: 60px;
+	margin-right: 60px;
+	margin-top: 20px;
+	min-width: 1200px;
+}
+
+.imageProjContainer	{
+	height: 180px;
+}
+
+.projImage {
+	padding-top: 40px;
+	width: auto;
+	height: 100px;
+}
+
+.textInsideTile	{
+	height: 120px;
+	font-size: 18px;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+.insideTileCont	{
+	width: stretch;
+	height: 300px;
+}
+
+.insideTileCont:hover img 	{
+	padding-top: 35px;
+	width: auto;
+	height: 110px;
+	transition-duration: 0.5s;
+}
+
+.projectsTable	{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	table-layout: fixed;
+	width: 1200px;
+	border-spacing: 10px 10px;
+}
+
+.projectsTable td	{
+    height: 300px;
+    text-align: center;
+    color: white;
+    background-color: darkgray;
+}
+
+.projectsTable a	{
+    -webkit-transition: color 0s; /* For Safari 3.0 to 6.0 */
+    color: white;
+    transition: color 0s; /* For modern browsers */
+	text-decoration: none;
+}
+
+.projectsTable a:hover	{
+	color: rgb(11, 1, 80);
+	text-decoration: none;
+}
+
+span {
+   display: block;
+}
+
