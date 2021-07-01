@@ -19,7 +19,7 @@ class Education extends Component{
 							</div>
 
 							<div className="contentRightAlign">
-								<span className="normalSizeText"><b>Expected Graduation: </b>March 2021</span>
+								<span className="normalSizeText"><b>   Graduated: </b>March 2021</span>
 								<span className="normalSizeText">September 2018 to March 2021</span>
 							</div>
 			    		</div>
@@ -33,7 +33,7 @@ class Education extends Component{
 							</div>
 
 							<div className="contentRightAlign">
-								<span className="normalSizeText">September 2016 to June 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+								<span className="normalSizeText">September 2016 to June 2018</span>
 							</div>
 			    		</div>
 			    		<div className="textAlignLeft">
@@ -64,7 +64,7 @@ class Education extends Component{
 				                    	<tr>
 				                    		<td></td>
 				                    		<td>Hardware-Software Interfacing</td>
-				                    		<td>Databases</td>
+				                    		<td>Databases and Data Management</td>
 				                    		<td></td>
 				                    	</tr>
 			    					</tbody>

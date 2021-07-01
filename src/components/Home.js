@@ -112,7 +112,7 @@ class HomePage extends Component  {
                       help of computers. I am a curious person interested in building <b>Embedded Systems, Full-Stack Applications, </b>
                       and <b>Intelligent Machines.</b> <br /><br />
 
-                      I will complete my Bachelor's Program @ UC Irvine in <b>March 2021</b> and I look forward to putting to use all 
+                      I completed the Bachelor of Science program @ UC Irvine in <b>March 2021</b> in the field of Computer Engineering! I look forward to putting to use all 
                       I that have learned from my courses, my research, and my personal projects. <br /><br />
 
                       Thanks for dropping by and please click through to learn more about me and what I've been working on! </span>

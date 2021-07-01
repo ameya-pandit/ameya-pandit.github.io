@@ -18,12 +18,24 @@
 	align-items: top;	
 }
 
+.thalesImageContainer	{
+	background-image: url(../components/images/thales_logo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 40px;
+	margin-top: 20px;
+	width: 420px;
+	height: 210px;
+	min-width: 420px;
+	min-height: 120px;
+}
+
 .lumentumImageContainer	{
 	background-image: url(../components/images/lumentum_logo.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin-left: 40px;
-	margin-top: 70px;
+	margin-top: 40px;
 	width: 420px;
 	height: 120px;
 	min-width: 420px;

@@ -150,6 +150,12 @@ class Skills extends Component{
 										</td>
 
 										<td>
+											<span title="AsterixDB">
+												<img width="55" alt="AsterixDB" height="55" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_21c317f17c9191751e9f9a180e1cfc37/apache-asterixdb.jpeg"></img>
+											</span>
+										</td>
+
+										<td>
 											<span title="Raspberry Pi">
 												<img width="55" alt="Raspberry Pi" height="55" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/buckyball_logo_detailscropped-500x490.jpg"></img>
 											</span>
@@ -192,16 +198,11 @@ class Skills extends Component{
 										<td></td>
 										<td></td>
 										<td>
-											<span title="Microsoft Excel">
-												<img width="55" alt="Microsoft Excel" height="55" src="https://telegraph.joinlincoln.org/app/uploads/2017/02/MS-Excel.png"></img>
+											<span title="Microsoft Office Suite">
+												<img width="55" alt="Microsoft Office Suite" height="55" src="https://img.icons8.com/color/452/microsoft-office-2019.png"></img>
 											</span>
 										</td>
 
-										<td>
-											<span title="Microsoft Office">
-												<img width="55" alt="Microsoft Office" height="55" src="https://logosrated.net/wp-content/uploads/2016/08/Microsoft-Outlook-Logo-1-185x182.jpg"></img>
-											</span>
-										</td>
 
 										<td>
 											<span title="Sublime Text Editor">
@@ -219,7 +220,13 @@ class Skills extends Component{
 
 										<td>
 											<span title="Xcode">
-												<img width="55" alt="Xcode" height="55" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png"></img>
+												<img width="55" alt="Xcode" height="55" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png"></img>
+											</span>
+										</td>
+
+										<td>
+											<span title="AWS">
+												<img width="55" alt="AWS" height="55" src="https://developer-tech.com/wp-content/uploads/sites/3/2021/01/photo.jpg"></img>
 											</span>
 										</td>
 									</tr>

@@ -17,7 +17,7 @@ class AboutMe extends Component{
 						</div>
 
 						<div className="aboutMeTextContainer">
-							<span> Hi! My name is Ameya Pandit and I'm an aspiring Computer Engineer attending UC Irvine.
+							<span> Hi! My name is Ameya Pandit and I recently completed the Bachelor of Science program in the field of Computer Engineering at UC Irvine.
 									I was raised mostly in sunny California, but I have fond memories of my time in Mumbai, India.
 									A multicultured upbringing allowed me to pick up on my Indian heritage, but also embrace the amount of
 									dedication and focus it takes to be successful in America, the land of opportunities. <br /><br />

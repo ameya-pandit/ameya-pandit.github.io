@@ -12,7 +12,22 @@ class Experience extends Component{
 			    <Header />
 
 				<div className="experienceMainContainer">
-					<span>Experience</span>	   
+					<span>Experience</span>	
+					<div className="indivExpContainer">
+						<div className="thalesImageContainer">
+						</div>
+						<div className="expTextContainer">
+							<span className="experienceTitle">IPTV Capstone Externship @ Thales</span>
+							<span className="timeCSS">September 2020 to March 2021</span>
+							<ul className="listCSS">
+								<li>Utilized various <b>CODECs</b> with <b>Python</b> scripting and <b>FFMPEG</b> commands to compress large media files 
+								into a transfer-friendly size 25x smaller than the original file - more suitable for Thales’ in-flight IPTV.</li>
+								<li>Developed <b>React</b> application allowing users to upload videos and select a CODEC and variable bit rate to 
+								compress the file; calculated VMAF score and contrasted bit rates to ensure quality was maintained.</li>
+								<li>Integrated live-streaming capability which connected video feeds through <b>OBS</b> and <b>AWS MediaLive</b> to <b>AWS StatMux</b> which compressed the feeds and consolidated into a single transport stream.</li>
+							</ul>
+						</div>
+					</div>    
 					<div className="indivExpContainer">
 						<div className="lumentumImageContainer">
 						</div>
