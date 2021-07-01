@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.291a5f43.chunk.css",
-    "main.js": "/static/js/main.eede83d5.chunk.js",
-    "main.js.map": "/static/js/main.eede83d5.chunk.js.map",
+    "main.css": "/static/css/main.db52478f.chunk.css",
+    "main.js": "/static/js/main.f0ef9e2a.chunk.js",
+    "main.js.map": "/static/js/main.f0ef9e2a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3374ac37.js",
     "runtime-main.js.map": "/static/js/runtime-main.3374ac37.js.map",
     "static/css/2.8a880555.chunk.css": "/static/css/2.8a880555.chunk.css",
     "static/js/2.eee07472.chunk.js": "/static/js/2.eee07472.chunk.js",
     "static/js/2.eee07472.chunk.js.map": "/static/js/2.eee07472.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7861ddeee2a0dd7878a7b2c92cc7a426.js": "/precache-manifest.7861ddeee2a0dd7878a7b2c92cc7a426.js",
+    "precache-manifest.720051a21e128ee146b52053514563cc.js": "/precache-manifest.720051a21e128ee146b52053514563cc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8a880555.chunk.css.map": "/static/css/2.8a880555.chunk.css.map",
-    "static/css/main.291a5f43.chunk.css.map": "/static/css/main.291a5f43.chunk.css.map",
+    "static/css/main.db52478f.chunk.css.map": "/static/css/main.db52478f.chunk.css.map",
     "static/js/2.eee07472.chunk.js.LICENSE.txt": "/static/js/2.eee07472.chunk.js.LICENSE.txt",
     "static/media/AboutMe.css": "/static/media/aboutMeRavensGame.20241186.JPG",
     "static/media/Home.css": "/static/media/ameya_background.136d4913.JPG",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.3374ac37.js",
     "static/css/2.8a880555.chunk.css",
     "static/js/2.eee07472.chunk.js",
-    "static/css/main.291a5f43.chunk.css",
-    "static/js/main.eede83d5.chunk.js"
+    "static/css/main.db52478f.chunk.css",
+    "static/js/main.f0ef9e2a.chunk.js"
   ]
 }
